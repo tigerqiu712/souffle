@@ -1,0 +1,20 @@
+<map id="souffle::SCCGraph::print" name="souffle::SCCGraph::print">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="195,5,344,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_s_c_c_graph.html#acd2568d4865cec787062a90412ef0816" title="Get all internal relations of a given SCC. " alt="" coords="199,57,340,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_relation.html#a6ae505289ecfc8e40c9f4e47689f5ee8" title="Return the name of the relation. " alt="" coords="201,122,338,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_s_c_c_graph.html#a542aa05043ef4016ea18bede28179b5d" title="Get the number of SCCs in the graph. " alt="" coords="199,187,340,229"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_s_c_c_graph.html#a2701db781502256c9f63b38def916809" title="Get all successor SCCs of a given SCC. " alt="" coords="199,253,340,294"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="225,319,314,345"/>
+<area shape="rect" id="node8" href="$_tui_8h.html#a9dae2961725e820a01dc7871b411ad32" title="rel" alt="" coords="250,369,289,396"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_output_processor.html#a4a4f93851e27f7202de0f1a99c5114ca" title="souffle::profile::Output\lProcessor::formatTable" alt="" coords="393,303,551,345"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="891,333,1035,374"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1profile_1_1_table.html#ad4cd261b758bcc2bc223b1b8d9aaa94e" title="souffle::profile::Table\l::sort" alt="" coords="400,555,544,597"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1profile_1_1_tools.html#afe466b09ae5ee2e1c7c64d55a0ae0c21" title="souffle::profile::Tools\l::formatTable" alt="" coords="649,303,793,345"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1profile_1_1_data_comparator.html#af08f9cf841481752c50d2483027f0a07" title="Sort by non&#45;recursive time. " alt="" coords="617,421,825,462"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1profile_1_1_data_comparator.html#a286b840ac5b9694c711f384e3edc0914" title="Sort by recursive time. " alt="" coords="601,487,842,513"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1profile_1_1_data_comparator.html#a734aaeddd3c8a7952ac75358d9cdfe5d" title="Sort by copy time. " alt="" coords="601,537,842,564"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1profile_1_1_data_comparator.html#ae89cb5ff565853d5eb8c5a6299f8774a" title="Sort by tuple count. " alt="" coords="600,588,843,615"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1profile_1_1_data_comparator.html#a76f98b6d43dc528c8f8bddb3746e8269" title="Sort by ID. " alt="" coords="606,639,837,665"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1profile_1_1_data_comparator.html#ac520aeef0437cb4a54c57b83bfc7af82" title="Sort by name. " alt="" coords="617,690,825,731"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1profile_1_1_data_comparator.html#a48b1c57f77017e9ae5a301526ca4a438" title="Sort by total time. " alt="" coords="617,755,825,797"/>
+</map>

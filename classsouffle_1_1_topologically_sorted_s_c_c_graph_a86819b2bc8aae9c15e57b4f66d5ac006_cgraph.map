@@ -1,0 +1,19 @@
+<map id="souffle::TopologicallySortedSCCGraph::print" name="souffle::TopologicallySortedSCCGraph::print">
+<area shape="rect" id="node2" href="$classsouffle_1_1_s_c_c_graph.html#acd2568d4865cec787062a90412ef0816" title="Get all internal relations of a given SCC. " alt="" coords="284,5,425,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_s_c_c_graph.html#a8c99e9b27da3c0aa38407fdca9633fcb" title="Get all predecessor SCCs of a given SCC. " alt="" coords="525,66,675,107"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_s_c_c_graph.html#a2701db781502256c9f63b38def916809" title="Get all successor SCCs of a given SCC. " alt="" coords="529,137,671,178"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="310,188,399,215"/>
+<area shape="rect" id="node6" href="$_tui_8h.html#a9dae2961725e820a01dc7871b411ad32" title="rel" alt="" coords="335,289,374,316"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_topologically_sorted_s_c_c_graph.html#aa04391221e28d5eeb52c6efb2c1fed54" title="Calculate the topological ordering cost of a permutation of as of yet unordered SCCs using the ordere..." alt="" coords="238,122,471,163"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1profile_1_1_output_processor.html#a4a4f93851e27f7202de0f1a99c5114ca" title="souffle::profile::Output\lProcessor::formatTable" alt="" coords="521,213,679,254"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="1019,257,1163,298"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1profile_1_1_table.html#ad4cd261b758bcc2bc223b1b8d9aaa94e" title="souffle::profile::Table\l::sort" alt="" coords="528,282,672,323"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1profile_1_1_tools.html#afe466b09ae5ee2e1c7c64d55a0ae0c21" title="souffle::profile::Tools\l::formatTable" alt="" coords="777,27,921,69"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1profile_1_1_data_comparator.html#af08f9cf841481752c50d2483027f0a07" title="Sort by non&#45;recursive time. " alt="" coords="745,223,953,265"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1profile_1_1_data_comparator.html#a286b840ac5b9694c711f384e3edc0914" title="Sort by recursive time. " alt="" coords="729,289,970,316"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1profile_1_1_data_comparator.html#a734aaeddd3c8a7952ac75358d9cdfe5d" title="Sort by copy time. " alt="" coords="729,340,970,367"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1profile_1_1_data_comparator.html#ae89cb5ff565853d5eb8c5a6299f8774a" title="Sort by tuple count. " alt="" coords="728,391,971,417"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1profile_1_1_data_comparator.html#a76f98b6d43dc528c8f8bddb3746e8269" title="Sort by ID. " alt="" coords="734,441,965,468"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1profile_1_1_data_comparator.html#ac520aeef0437cb4a54c57b83bfc7af82" title="Sort by name. " alt="" coords="745,93,953,134"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1profile_1_1_data_comparator.html#a48b1c57f77017e9ae5a301526ca4a438" title="Sort by total time. " alt="" coords="745,158,953,199"/>
+</map>

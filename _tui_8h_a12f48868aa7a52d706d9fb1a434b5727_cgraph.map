@@ -1,0 +1,20 @@
+<map id="iterRul" name="iterRul">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_output_processor.html#a4a4f93851e27f7202de0f1a99c5114ca" title="souffle::profile::Output\lProcessor::formatTable" alt="" coords="345,5,503,46"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_output_processor.html#a6bb671aa2410a26617bf762934edf00d" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="115,63,295,105"/>
+<area shape="rect" id="node6" href="$_tui_8h.html#af0185d9203583239b980c2fc25f431cd" title="graphD" alt="" coords="173,129,237,156"/>
+<area shape="rect" id="node7" href="$_tui_8h.html#aaf579dcd940408e0553c177cdd8a5833" title="graphL" alt="" coords="175,341,236,368"/>
+<area shape="rect" id="node11" href="$_tui_8h.html#aeb2e28226bc63d2c593c2ac86fa3e636" title="rul" alt="" coords="186,180,225,207"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1profile_1_1_tools.html#afe466b09ae5ee2e1c7c64d55a0ae0c21" title="souffle::profile::Tools\l::formatTable" alt="" coords="601,5,745,46"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="843,34,987,75"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_output_processor.html#a2f89164cf4e3f321c8c00d901c5e0137" title="souffle::profile::Output\lProcessor::formatNum" alt="" coords="347,445,501,486"/>
+<area shape="rect" id="node9" href="$namespacesouffle_1_1profile_1_1_tools.html#ad9011e82795a404812e43a9f42a23da8" title="souffle::profile::Tools\l::formatNum" alt="" coords="601,522,745,563"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1profile_1_1_tools.html#a2bece208942313bcd12c80a8d5cba2ba" title="souffle::profile::Tools\l::abbreviations" alt="" coords="843,522,987,563"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1profile_1_1_table.html#ad4cd261b758bcc2bc223b1b8d9aaa94e" title="souffle::profile::Table\l::sort" alt="" coords="352,270,496,311"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1profile_1_1_data_comparator.html#af08f9cf841481752c50d2483027f0a07" title="Sort by non&#45;recursive time. " alt="" coords="569,303,777,345"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1profile_1_1_data_comparator.html#a286b840ac5b9694c711f384e3edc0914" title="Sort by recursive time. " alt="" coords="553,369,794,396"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1profile_1_1_data_comparator.html#a734aaeddd3c8a7952ac75358d9cdfe5d" title="Sort by copy time. " alt="" coords="553,420,794,447"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1profile_1_1_data_comparator.html#ae89cb5ff565853d5eb8c5a6299f8774a" title="Sort by tuple count. " alt="" coords="552,471,795,497"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1profile_1_1_data_comparator.html#a76f98b6d43dc528c8f8bddb3746e8269" title="Sort by ID. " alt="" coords="558,121,789,148"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1profile_1_1_data_comparator.html#ac520aeef0437cb4a54c57b83bfc7af82" title="Sort by name. " alt="" coords="569,173,777,214"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1profile_1_1_data_comparator.html#a48b1c57f77017e9ae5a301526ca4a438" title="Sort by total time. " alt="" coords="569,238,777,279"/>
+</map>

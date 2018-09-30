@@ -1,0 +1,16 @@
+<map id="souffle::Synthesiser::getRelationName" name="souffle::Synthesiser::getRelationName">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser.html#a00537219513c769139de7e9db33ce25c" title="Convert RAM identifier. " alt="" coords="196,133,335,174"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="souffle::RamRelation\l::getName" alt="" coords="193,198,338,239"/>
+<area shape="rect" id="node3" href="$_tui_8h.html#ac0492b1a8961f39b1ba80ed376aa43b8" title="id" alt="" coords="387,140,426,167"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_output_processor.html#a4a4f93851e27f7202de0f1a99c5114ca" title="souffle::profile::Output\lProcessor::formatTable" alt="" coords="475,59,634,101"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1profile_1_1_table.html#ad4cd261b758bcc2bc223b1b8d9aaa94e" title="souffle::profile::Table\l::sort" alt="" coords="483,205,627,246"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1profile_1_1_tools.html#afe466b09ae5ee2e1c7c64d55a0ae0c21" title="souffle::profile::Tools\l::formatTable" alt="" coords="732,5,876,46"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="973,5,1117,46"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_data_comparator.html#af08f9cf841481752c50d2483027f0a07" title="Sort by non&#45;recursive time. " alt="" coords="700,70,908,111"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_data_comparator.html#a286b840ac5b9694c711f384e3edc0914" title="Sort by recursive time. " alt="" coords="683,136,925,163"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1profile_1_1_data_comparator.html#a734aaeddd3c8a7952ac75358d9cdfe5d" title="Sort by copy time. " alt="" coords="683,187,925,213"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1profile_1_1_data_comparator.html#ae89cb5ff565853d5eb8c5a6299f8774a" title="Sort by tuple count. " alt="" coords="683,237,925,264"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1profile_1_1_data_comparator.html#a76f98b6d43dc528c8f8bddb3746e8269" title="Sort by ID. " alt="" coords="689,288,919,315"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1profile_1_1_data_comparator.html#ac520aeef0437cb4a54c57b83bfc7af82" title="Sort by name. " alt="" coords="700,339,908,381"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1profile_1_1_data_comparator.html#a48b1c57f77017e9ae5a301526ca4a438" title="Sort by total time. " alt="" coords="700,405,908,446"/>
+</map>

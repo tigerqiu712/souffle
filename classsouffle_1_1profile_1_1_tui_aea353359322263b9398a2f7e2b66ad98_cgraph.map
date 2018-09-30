@@ -1,0 +1,11 @@
+<map id="souffle::profile::Tui::outputJson" name="souffle::profile::Tui::outputJson">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1profile_1_1_tools.html#a88c43a221e64a3caa215693a871928ff" title="souffle::profile::Tools\l::cleanJsonOut" alt="" coords="429,126,573,167"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1profile.html#add9e842465f86c2c52654faf03a15989" title="souffle::profile::comma" alt="" coords="424,341,579,368"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1profile_1_1_tools.html#a69ece90093830c522e8c69d5e7ed3968" title="souffle::profile::Tools\l::file_exists" alt="" coords="203,122,347,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_html_string.html#aa69fff429c172e4a099539df17cf1f00" title="souffle::profile::HtmlString\l::get_first_half" alt="" coords="187,5,362,46"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1profile_1_1_output_processor.html#a6bb671aa2410a26617bf762934edf00d" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="185,239,365,281"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="203,305,347,346"/>
+<area shape="rect" id="node9" href="$namespacesouffle_1_1profile_1_1_tools.html#adad3bddfe761fd5eb8021bce9d59f890" title="souffle::profile::Tools\l::getworkingdir" alt="" coords="203,370,347,411"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1profile.html#a4a23ed39de88d9ef5613b8e6fcf85ab7" title="souffle::profile::toString" alt="" coords="196,188,353,215"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1profile_1_1_html_string.html#aa0e3524658dab0a50ae98f226a4575a2" title="souffle::profile::HtmlString\l::wrapCss" alt="" coords="414,5,589,46"/>
+</map>

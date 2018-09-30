@@ -1,0 +1,11 @@
+<map id="iterRel" name="iterRel">
+<area shape="rect" id="node2" href="$classsouffle_1_1profile_1_1_output_processor.html#a4a4f93851e27f7202de0f1a99c5114ca" title="souffle::profile::Output\lProcessor::formatTable" alt="" coords="126,5,285,46"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_output_processor.html#a6bb671aa2410a26617bf762934edf00d" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="115,70,295,111"/>
+<area shape="rect" id="node6" href="$_tui_8h.html#af0185d9203583239b980c2fc25f431cd" title="graphD" alt="" coords="173,136,237,163"/>
+<area shape="rect" id="node7" href="$_tui_8h.html#aaf579dcd940408e0553c177cdd8a5833" title="graphL" alt="" coords="175,187,236,213"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1profile_1_1_tools.html#afe466b09ae5ee2e1c7c64d55a0ae0c21" title="souffle::profile::Tools\l::formatTable" alt="" coords="349,5,493,46"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="547,5,691,46"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1profile_1_1_output_processor.html#a2f89164cf4e3f321c8c00d901c5e0137" title="souffle::profile::Output\lProcessor::formatNum" alt="" coords="344,179,499,221"/>
+<area shape="rect" id="node9" href="$namespacesouffle_1_1profile_1_1_tools.html#ad9011e82795a404812e43a9f42a23da8" title="souffle::profile::Tools\l::formatNum" alt="" coords="547,179,691,221"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1profile_1_1_tools.html#a2bece208942313bcd12c80a8d5cba2ba" title="souffle::profile::Tools\l::abbreviations" alt="" coords="739,179,883,221"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="memoryUsage" name="memoryUsage">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1profile_1_1_tools.html#ad8bb140211706d667172df3bd5b619e7" title="souffle::profile::Tools\l::formatMemory" alt="" coords="160,5,304,46"/>
+<area shape="rect" id="node3" href="$_tui_8h.html#a1099806bbd4c308e310937f85b5cc4d4" title="getTermWidth" alt="" coords="372,71,476,97"/>
+<area shape="rect" id="node4" href="$_tui_8h.html#a6ebf270cfa5aabfaae37c3ac425df121" title="getUsageStats" alt="" coords="369,121,479,148"/>
+<area shape="rect" id="node7" href="$_tui_8h.html#aa9d896badf9c877a37d6b250ec8d875d" title="usage" alt="" coords="203,172,261,199"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_profile_event_singleton.html#a637d45b9714bb164623bda9df474bc85" title="souffle::ProfileEventSingleton\l::getDB" alt="" coords="544,143,739,185"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_profile_event_singleton.html#adf94d78a9d87272b42a1fe4bc31f918d" title="get instance " alt="" coords="544,78,739,119"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1profile_1_1_tools.html#ad0ed94a1bddc0f50beba321548460743" title="souffle::profile::Tools\l::formatTime" alt="" coords="352,173,496,214"/>
+<area shape="rect" id="node9" href="$namespacesouffle_1_1profile_1_1_tools.html#ad9011e82795a404812e43a9f42a23da8" title="souffle::profile::Tools\l::formatNum" alt="" coords="352,238,496,279"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1profile_1_1_tools.html#a2bece208942313bcd12c80a8d5cba2ba" title="souffle::profile::Tools\l::abbreviations" alt="" coords="569,238,713,279"/>
+</map>
